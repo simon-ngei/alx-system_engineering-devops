@@ -1,0 +1,2 @@
+#!/bin/bash
+while IFS=: read -r user _ _ _ _ home_dir _; do
